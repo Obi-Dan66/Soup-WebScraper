@@ -1,4 +1,5 @@
 # use pip install method in front of every statement below
+# python
 beautifulsoup4 # import bs4
 lxml
 requests
